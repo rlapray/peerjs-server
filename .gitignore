@@ -17,3 +17,5 @@ npm-debug.log
 .idea
 .cache
 .vscode
+/.idea/
+/peerjs-server.iml
